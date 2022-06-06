@@ -24,7 +24,7 @@
 
   // Other
   global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6283867149253','6285713822876','+62895422971339','6287878528616','6285875531636','6285803313083'] // Kalo Mau Lebih Tambahin Aja
+  global.owner = ['6283867149253','6285713822876','62895802600692','6287878528616','6285875531636','6285803313083'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6283867149253' // Owner Utama Istilahnya
   global.botname = 'RhmtBotz' // Ganti Jadi Nama Botmu
   global.packname = ' ' // Sticker Weem
