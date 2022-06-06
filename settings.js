@@ -16,7 +16,7 @@
   global.autoReadAll = false // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
   global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
-  global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
+  global.autoTyping = true // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
   global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
   global.limitCount = 70 // 70 Dah Pas Banh
@@ -24,17 +24,17 @@
 
   // Other
   global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
-  global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
+  global.owner = ['6283867149253','6285713822876','+62895422971339','6287878528616','6285875531636','6285803313083'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6283867149253' // Owner Utama Istilahnya
+  global.botname = 'RhmtBotz' // Ganti Jadi Nama Botmu
+  global.packname = ' ' // Sticker Weem
+  global.author = ' ' // Sticker Weem
+  global.webme = 'https://chat.whatsapp.com/KQZNBa0kpoh2VUjoq0S7EQ' // Ganti Sama Web Mu
+  global.linkgroup = 'https://chat.whatsapp.com/EJgLF3zHijIFrG1QQIX3Yl' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
-  global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
-  global.instagram = 'https://instagram.com/riychdwayne' // Ganti Sama Link Ig mu
+  global.youtube = 'https://youtube.com/channel/UCc4lZy1KEXwc7jaxOU3vqLw' // Ganti Sama Link Yt Mu
+  global.github = 'https://github.com/RhmtCraft' // Ganti Sama Link Github Mu
+  global.instagram = 'https://instagram.com/rhmt.editz' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
   global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
